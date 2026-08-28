@@ -13,5 +13,5 @@ To generate prices for each timestamp and visualize the results, run:
 python main.py
 ```
 
-## Future Work
-Add a frontend (dashboard) to visualize real-time changes in fares.
+##Work in process
+Adding a frontend (dashboard) to visualize real-time changes in fares.
